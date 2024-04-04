@@ -15,7 +15,9 @@ In the next phase of the project, I honed in on the representation of years and 
 Furthermore, when I delved into regional variations, I found that Sub-Saharan Africa exhibited the most significant enhancement in access to basic water services nationwide. This underscored the critical need to tackle regional inequalities and adopt long-lasting solutions.
 
 ### Dashboard Display
-![image](https://github.com/NelisiweBezana/Preparing-data-with-Googlesheets-Excel/assets/140618126/c305e6a6-7d0e-4f00-a5d7-09dbf3ff3678
+
+[Dashboard](![dashboard](https://github.com/NelisiweBezana/Preparing-data-with-Googlesheets-Excel/assets/140618126/8e7b5b87-0a74-43a3-bcfe-a17fe6ff1e6e)
+)
 
 Above is a visual representation of the project's findings, displayed in the dashboard format. The dashboard provides a comprehensive overview of access to safe and affordable drinking water, showcasing the insights gained from the data analysis.
 
