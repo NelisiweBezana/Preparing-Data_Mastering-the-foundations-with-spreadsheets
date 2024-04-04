@@ -16,8 +16,7 @@ Furthermore, when I delved into regional variations, I found that Sub-Saharan Af
 
 ### Dashboard Display
 
-<img src="![image](https://github.com/NelisiweBezana/Preparing-data-with-Googlesheets-Excel/assets/140618126/ecc39221-2313-4528-973a-3230f801762f)
-" width="35" title="googlesheets"/>
+<img src="https://github.com/NelisiweBezana/Preparing-data-with-Googlesheets-Excel/assets/140618126/ecc39221-2313-4528-973a-3230f801762f" width = 900 title="dashboard"/>
 
 Above is a visual representation of the project's findings, displayed in the dashboard format. The dashboard provides a comprehensive overview of access to safe and affordable drinking water, showcasing the insights gained from the data analysis.
 
