@@ -1,4 +1,4 @@
-Demonstrating expertise in data analysis, transformation, and visualization through the utilization of Google Sheets. Presenting storytelling techniques and Markdown formatting to effectively communicate findings regarding access to drinking water. Proficiency in these aspects facilitated both the analysis and communication of insights.
+Demonstrating expertise in data analysis: transformation, and visualization through the utilization of Google Sheets. Presenting storytelling techniques and Markdown formatting to effectively communicate findings regarding access to drinking water. Proficiency in these aspects facilitated both the analysis and communication of insights.
 
 ### Access to Safe and Affordable Drinking Water
 Project Overview
